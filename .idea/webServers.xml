@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fd62fc99-47f3-4f75-85c1-9838d9a7602b" name="dev" url="http://127.0.0.1">
+        <fileTransfer rootFolder="/home/chenjinbin.i" accessType="SFTP" host="10.227.89.217" port="22" sshConfigId="cf69c841-d65c-4ed0-855c-f35a676b3ebf" sshConfig="chenjinbin.i@10.227.89.217:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
